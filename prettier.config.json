@@ -1,0 +1,24 @@
+{
+    "semi": true,
+    "trailingComma": "all",
+    "singleQuote": true,
+    "printWidth": 80,
+    "tabWidth": 2,
+    "jsxSingleQuote": false,
+    "jsxBracketSameLine": true,
+    "arrowParens": "always",
+    "bracketSpacing": true,
+    "useTabs": false,
+    "endOfLine": "lf",
+    "quoteProps": "as-needed",
+    "jsxSortProps": false,
+    "overrides": [
+      {
+        "files": "*.tsx",
+        "options": {
+          "parser": "typescript"
+        }
+      }
+    ]
+  }
+  
